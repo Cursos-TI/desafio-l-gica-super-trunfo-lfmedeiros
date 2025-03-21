@@ -9,6 +9,7 @@ int main() {
 
      printf("LÓGICA SUPER TRUNFO PAÍSES %s\n");
         printf("aaaaaaaaaaaaaaaaa");
+        printf("bbbbbbbbbbbbbbbbb");
 
     return 0;
 }
